@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rodania.github.io/landingpage-cctv/sitemap.xml
